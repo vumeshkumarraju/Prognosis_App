@@ -11,4 +11,4 @@
 
 # ARCHITECTURE DIAGRAM
 
-<img width="310" alt="image" src="https://i.postimg.cc/hjFhwdKj/conceptual-Model-Wh-BG.png">
+<img width="610" alt="image" src="https://i.postimg.cc/hjFhwdKj/conceptual-Model-Wh-BG.png">
