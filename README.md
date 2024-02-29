@@ -17,7 +17,19 @@
 
 <img width="610" alt="image" src="https://i.postimg.cc/1XK3d7zR/temp-Imagen-W1-XYg.avif">
 
-Doctor Dashboard and patient details
+Doctor Dashboard 
 
 <img width="200" alt="image" src="https://i.postimg.cc/W17bbHmM/1.jpg">
+
+Patient details
 <img width="200" alt="image" src="https://i.postimg.cc/t4b4bj6q/5.jpg">
+<img width="200" alt="image" src="https://i.postimg.cc/x8s32RxY/Screenshot-2024-02-29-at-6-29-35-AM.png">
+
+Prescription Detail
+
+<img width="400" alt="image" src="https://i.postimg.cc/nrMQvt2b/Screenshot-2024-02-29-at-6-30-12-AM.png">
+
+Push Notification
+
+<img width="200" alt="image" src="https://i.postimg.cc/k4W7zY56/Screenshot-2024-02-29-at-6-30-59-AM.png">
+
