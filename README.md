@@ -18,12 +18,11 @@
 <img width="610" alt="image" src="https://i.postimg.cc/1XK3d7zR/temp-Imagen-W1-XYg.avif">
 
 Doctor Dashboard 
-
-<img width="200" alt="image" src="https://i.postimg.cc/W17bbHmM/1.jpg">
+<img width="200" alt="image" src="https://i.postimg.cc/t4b4bj6q/5.jpg">
 
 Patient details
 
-<img width="200" alt="image" src="https://i.postimg.cc/t4b4bj6q/5.jpg"><img width="200" alt="image" src="https://i.postimg.cc/x8s32RxY/Screenshot-2024-02-29-at-6-29-35-AM.png">
+<img width="200" alt="image" src="https://i.postimg.cc/W17bbHmM/1.jpg"><img width="200" alt="image" src="https://i.postimg.cc/x8s32RxY/Screenshot-2024-02-29-at-6-29-35-AM.png">
 
 Prescription Detail
 
